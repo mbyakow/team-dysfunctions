@@ -80,7 +80,7 @@ export default {
   },
   data() {
     return {
-      step: 16,
+      step: 0,
       results: {
         1: 0,
         2: 0,
